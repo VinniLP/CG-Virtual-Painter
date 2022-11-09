@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import time
 
-#contants
+# #contants
 ml = 150
 max_x, max_y = 250+ml, 50
 curr_tool = "select tool"
